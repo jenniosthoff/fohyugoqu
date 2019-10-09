@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiyeigoov.comfyshorts.com/sitemap.xml
